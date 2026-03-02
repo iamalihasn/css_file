@@ -1,0 +1,25 @@
+.main{
+    height: 600px;
+    width: 600px;
+    background-color: antiquewhite;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+}
+
+#box1{
+    background-color: yellow;
+}
+
+#box2{
+    background-color: green;
+    float: right;
+    
+}
+
+#box3{
+    background-color:red;
+    clear: both;
+}
