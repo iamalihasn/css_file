@@ -12,24 +12,26 @@
     height: 100px;
     width: 100px;
     background-color: darkred;
-    border-radius: 50%;
+    /* border-radius: 50%; */
     animation-name: my_animation;
     animation-duration: 5s;
     animation-iteration-count: infinite;
     animation-delay: 3s;
     animation-timing-function: ease-in-out;
+    animation-direction: alternate-reverse;
 }
 
 .inner-2{
     height: 100px;
     width: 100px;
-    border-radius: 50%;
+    /* border-radius: 50%; */
     background-color: darkgoldenrod;
     animation-name: my_animi;
     animation-duration: 5s;
     animation-iteration-count: infinite;
     animation-delay: 3s;
     animation-timing-function: ease-in-out;
+    animation-direction: alternate-reverse;
 
 }
 
